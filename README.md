@@ -5,6 +5,26 @@ I'm a software developer and make Android Apps.
 <table>
   <tr>
     <td width=100>
+	  <img src="https://play-lh.googleusercontent.com/b6mJq5UE7Z2pp0S3yOxKtVEH5il2DObrgxDegcqOYU1vAsckIpWaFxvn1WnfOOTBqUU" style="border-radius:20%;">
+    </td>
+    <td>
+      <h3>Spelling Boost</h3>
+      An educational Android app designed to help primary school children master spelling in a fun and effective way. Built with Kotlin, the app transforms traditional spelling practice into an interactive experience for both children and parents.
+      <br><br>
+      <b>Key Features:</b>
+      <ul>
+        <li><b>Interactive Audio Tests:</b> Automates spelling practice with clear audio dictation.</li>
+        <li><b>Handwriting Input:</b> Allows children to write answers directly on the screen, improving both spelling and penmanship.</li>
+        <li><b>Scan Paper Lists:</b> Parents can instantly create digital tests by scanning a paper list with the device's camera.</li>
+        <li><b>Smart Feedback & Progress Tracking:</b> Offers immediate corrections and allows parents to monitor their child's performance.</li>
+        <li><b>Tricky Words Mode:</b> Intelligently focuses practice on the words a child struggles with the most.</li>
+      </ul>
+      <a href="https://play.google.com/store/apps/details?id=com.marcsoftware.spelling"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+      <a href="https://spellingboost.com"><img src="https://img.shields.io/badge/Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width=100>
 	  <img src="https://lh3.googleusercontent.com/Jda5TJzTrZR4adjy4Ls50EMkcg5J0AwE38ipfsg_f81PtPXcdTEhXtml7h1nE44idj2A" style="border-radius:20%;">
     </td>
     <td>
